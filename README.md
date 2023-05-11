@@ -25,8 +25,6 @@
 ###  [如要提交代码请先看--提交合并代码规范提交者的后面都会有署名方便大家问问题](/docs/code-criterion.md)
 
 | ID | Problem  | Article | 
-| --- | ---   | :--- |
-| 000 |如何解决卖超问题 | [解决思路](/docs/code-solve.md) |
 | 001 |如何对本项目进行jmeter压测 | [解决思路](/docs/jemter-solve.md) |
 | 003 |全局异常处理拦截 |[解决思路](/docs/code-solve.md)  |
 | 003 |页面级缓存thymeleafViewResolver |[解决思路](/docs/code-solve.md)  |
