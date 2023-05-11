@@ -14,13 +14,6 @@ public interface GoodsService {
      * 查询获取全部信息
      * @return
      */
-    public ResultGeekQOrder<List<GoodsVoOrder>> listGoodsVo();
-
-    /**
-     * 根据商品id查询货物信息
-     * @param goodsId
-     * @return
-     */
     public ResultGeekQOrder<GoodsVoOrder> getGoodsVoByGoodsId(long goodsId);
 
     /**
