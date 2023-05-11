@@ -7,9 +7,7 @@ public class DBContextUtil {
 	public static final String DBMASTER = "dbmaster";
 	public static final String DBREAD = "dbread";
 
-	public static void setDB(String db) {
-		dbPools.set(db);
-	}
+	publi
 
 	public static String getDB() {
 		return dbPools.get();
