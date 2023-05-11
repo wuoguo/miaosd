@@ -7,13 +7,7 @@ public class Constanst {
 
 
     public enum orderStaus{
-        ORDER_NOT_PAY("新建未支付");
-
-        orderStaus(String name){
-            this.name=name;
-        }
-
-        private  String name;
+        ORDER_NOT_P
 
         public String getName() {
             return name;
