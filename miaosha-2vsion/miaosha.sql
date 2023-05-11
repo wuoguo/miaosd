@@ -14,11 +14,7 @@ Date: 2019-02-13 19:05:07
 */
 
 SET FOREIGN_KEY_CHECKS=0;
--- ----------------------------
--- Table structure for `goods`
--- ----------------------------
-DROP TABLE IF EXISTS `goods`;
-CREATE TABLE `goods` (
+-- ------------
   `id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '商品ID',
   `goods_name` varchar(16) DEFAULT NULL COMMENT '商品名称',
   `goods_title` varchar(64) DEFAULT NULL COMMENT '商品标题',
