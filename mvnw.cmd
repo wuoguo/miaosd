@@ -20,14 +20,7 @@
 @REM ----------------------------------------------------------------------------
 @REM Maven2 Start Up Batch script
 @REM
-@REM Required ENV vars:
-@REM JAVA_HOME - location of a JDK home dir
-@REM
-@REM Optional ENV vars
-@REM M2_HOME - location of maven2's installed home dir
-@REM MAVEN_BATCH_ECHO - set to 'on' to enable the echoing of the batch commands
-@REM MAVEN_BATCH_PAUSE - set to 'on' to wait for a key stroke before ending
-@REM MAVEN_OPTS - parameters passed to the Java VM when running Maven
+@REM Required ENV Maven
 @REM     e.g. to debug Maven itself, use
 @REM set MAVEN_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000
 @REM MAVEN_SKIP_RC - flag to disable loading of mavenrc files
