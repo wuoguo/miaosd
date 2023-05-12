@@ -11,12 +11,7 @@
 @REM ----------------------------------------------------------------------------
 @REM Maven2 Start Up Batch script
 @REM
-@REM Required ENV Maven
-@REM     e.g. to debug Maven itself, use
-@REM set MAVEN_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000
-@REM MAVEN_SKIP_RC - flag to disable loading of mavenrc files
-@REM ----------------------------------------------------------------------------
-
+@REM Required ENV
 @REM Begin all REM lines with '@' in case MAVEN_BATCH_ECHO is 'on'
 @echo off
 @REM enable echoing my setting MAVEN_BATCH_ECHO to 'on'
