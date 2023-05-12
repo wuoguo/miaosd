@@ -4,11 +4,7 @@
 	<parent>
 		<groupId>com.geekq</groupId>
 		<artifactId>miaosha-admin</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</parent>
-	<artifactId>miaosha-admin-service</artifactId>
-	
-	<packaging>war</packaging>
+	ng>
 	
 	<dependencies>
 
