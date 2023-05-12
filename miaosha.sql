@@ -16,10 +16,7 @@
 
 DROP TABLE IF EXISTS `goods`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `goods` (
-  `id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '商品ID',
-  `goods_name` varchar(16) DEFAULT NULL COMMENT '商品名称',
+/*!40101 SETT '商品名称',
   `goods_title` varchar(64) DEFAULT NULL COMMENT '商品标题',
   `goods_img` varchar(64) DEFAULT NULL COMMENT '商品的图片',
   `goods_detail` longtext COMMENT '商品的详情介绍',
