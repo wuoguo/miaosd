@@ -12,7 +12,6 @@ File Encoding         : 65001
 
 Date: 2019-01-11 22:14:46
 */
-  `goods_name` varchar(16) DEFAULT NULL COMMENT '商品名称',
   `goods_title` varchar(64) DEFAULT NULL COMMENT '商品标题',
   `goods_img` varchar(64) DEFAULT NULL COMMENT '商品的图片',
   `goods_detail` longtext COMMENT '商品的详情介绍',
